@@ -8,9 +8,6 @@ Codebook.md
 Taskin Mehereen
 
 
-## Libraries Required
-
-reshape2, dplyr
 
 ###Description 
 
