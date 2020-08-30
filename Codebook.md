@@ -8,19 +8,19 @@ Taskin Mehereen
 
 
 
-###Description 
+### Description 
 
 This document is a code book that describes the
 variables, the data, and all the transformations and work that was
 performed to clean up the data.
 
-###Source Data The original data was downloaded from:
+### Source Data The original data was downloaded from:
 [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 The description of the original dataset can be found from:
 [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-###Data Set Information 
+### Data Set Information 
 
 The experiments have been carried out with a
 group of 30 volunteers within an age bracket of 19-48 years. Each person
@@ -64,7 +64,7 @@ The data set provided the following variables for each activity:
     +fBodyGyroMag 
     +fBodyGyroJerkMag
 
-###Transformation Specifics 
+### Transformation Specifics 
 The following instructions were implemented
 to clean up the data:
 1.Merge the training and the test sets to create
