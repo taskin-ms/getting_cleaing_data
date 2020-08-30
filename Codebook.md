@@ -9,8 +9,9 @@ This document is a code book that describes the variables, the data, and
 all the transformations and work that was performed to clean up the
 data.
 
-### Source Data The original data was downloaded from:
+### Source Data 
 
+The original data was downloaded from:
 [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 The description of the original dataset can be found from:
